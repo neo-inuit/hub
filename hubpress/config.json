@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "neo-inuit",
-    "repositoryName": "neo-inuit.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"neo-inuit","repositoryName":"neo-inuit.github.io","branch":"master"},"site":{"title":"My personal blog","description":"freeze geek","postsPerPage":"3","url":"https://neo-inuit.github.io"},"socialnetwork":{"twitter":"https://twitter.com/neoinuit","github":"https://github.com/neo-inuit"},"theme":{"name":"Casper","url":"//neo-inuit.github.io/themes/Casper"}}
