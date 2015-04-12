@@ -1,0 +1,17 @@
+= Trying Markdown
+
+## ruby code
+
+```ruby
+module AnimalSkills
+  def eat
+    puts "I'm eating !"
+  end
+ 
+  def move
+    puts "I'm moving !"
+  end
+ 
+  def express; puts "I'm expressing !" end
+end
+```
