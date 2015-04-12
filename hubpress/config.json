@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "neo-inuit",
-    "repositoryName": "hub",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"neo-inuit","repositoryName":"hub","branch":"gh-pages"},"site":{"title":"Geek freeze","description":"My personal blog","logo":"https://pbs.twimg.com/profile_images/519588749433249793/LQAZJJci_400x400.png","cover":"https://pbs.twimg.com/profile_banners/2844712405/1412714404/600x200","postsPerPage":"3","url":"https://neo-inuit.github.io/hub"},"socialnetwork":{"twitter":"https://twitter.com/neoinuit","github":"https://github.com/neo-inuit"},"theme":{"name":"Casper","url":"//neo-inuit.github.io/hub/themes/Casper"}}
